@@ -2,7 +2,7 @@
 
 namespace Example
 {
-    internal class Example1
+    internal class Program
     {
         static void Main(string[] args)
         {
