@@ -16,7 +16,8 @@ namespace Example
                               $"Баллы по программированию: {progrScores}\n" +
                               $"Баллы по математике: {mathScores}\n" +
                               $"Баллы по физике: {physicsScores}");
-
+            
+            Console.ReadKey();
         }
     }
 }
